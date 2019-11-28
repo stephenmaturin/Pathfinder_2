@@ -4,7 +4,7 @@ This is an Anki deck for learning the rules for Pathfinder, 2nd ed.
 
 This deck can be imported into Anki using the [CrowdAnki plugin](https://github.com/Stvad/CrowdAnki).
 
-The cards were created somewhat haphazardly by me as I first read the rulebook.  They have lots of typos and speech recogition errors.  They could definitely use tags to make it easier to select what to include and what not to include.  Contributions via pull requests are very welcome.
+The cards were created somewhat haphazardly by me as I first read the rulebook.  They have lots of typos and speech recognition errors.  They could definitely use tags to make it easier to select what to include and what not to include.  Contributions via pull requests or issues are very welcome.
 
 # Legal Stuff
 
