@@ -1,6 +1,6 @@
 This is an Anki deck for learning the rules for Pathfinder, 2nd ed. 
 
-Anki is a spaced-repetition flashcard system which is an excellent way to efficiently memorize large amounts of information.
+[Anki](https://apps.ankiweb.net/) is a spaced-repetition flashcard system which is an excellent way to efficiently memorize large amounts of information.
 
 This deck can be imported into Anki using the [CrowdAnki plugin](https://github.com/Stvad/CrowdAnki).
 
